@@ -1,2 +1,2 @@
 # Pebble
-Watchface for Pebble Smartwatch
+Digital watchface for Pebble Smartwatch
